@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.ultreia.app", "sha256_cert_fingerprints": ["40:AB:4F:1A:FE:DD:9C:C7:AE:D3:24:45:AF:82:C5:84:FD:1B:46:28:63:AC:9C:53:F1:F4:7F:E1:1C:F6:4A:AB", "CA:97:9D:AD:72:BE:EE:8F:31:CF:55:31:82:31:E0:DF:ED:63:2A:91:A0:D5:E0:FB:EA:A8:63:57:73:FD:C8:4F"]}}]
