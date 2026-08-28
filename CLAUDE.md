@@ -11,7 +11,7 @@ Tout push sur main part directement en production. Pour toute modification non t
 
 Site statique single-file : tout le HTML/CSS/JS vit dans index.html. Pas de framework, pas de build step.
 
-Jamais de secrets, clés API ou tokens dans ce repo.
+Ce repo est PUBLIC. Jamais de secrets, clés API, tokens, ni documentation d'API interne (contrats OpenAPI, specs backend) dans ce repo.
 
 Langue du site : castillan (Espagne). Ton sobre et premium, public parents.
 
